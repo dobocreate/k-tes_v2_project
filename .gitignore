@@ -110,5 +110,5 @@ data/results/*
 !data/results/.gitkeep
 
 # Keep original docs and sample
-!docs/
-!sample/
+docs/
+sample/
